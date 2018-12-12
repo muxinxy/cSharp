@@ -1,0 +1,7 @@
+D:\cSharp\5-2-exchange\5-2-exchange\bin\Debug\5-2-exchange.exe.config
+D:\cSharp\5-2-exchange\5-2-exchange\bin\Debug\5-2-exchange.exe
+D:\cSharp\5-2-exchange\5-2-exchange\bin\Debug\5-2-exchange.pdb
+D:\cSharp\5-2-exchange\5-2-exchange\obj\Debug\5-2-exchange.csprojAssemblyReference.cache
+D:\cSharp\5-2-exchange\5-2-exchange\obj\Debug\5-2-exchange.csproj.CoreCompileInputs.cache
+D:\cSharp\5-2-exchange\5-2-exchange\obj\Debug\5-2-exchange.exe
+D:\cSharp\5-2-exchange\5-2-exchange\obj\Debug\5-2-exchange.pdb

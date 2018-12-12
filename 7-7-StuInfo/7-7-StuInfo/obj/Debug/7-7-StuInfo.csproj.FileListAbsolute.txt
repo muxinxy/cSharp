@@ -1,0 +1,14 @@
+D:\cSharp\7-7-StuInfo\7-7-StuInfo\bin\Debug\7-7-StuInfo.exe.config
+D:\cSharp\7-7-StuInfo\7-7-StuInfo\bin\Debug\7-7-StuInfo.exe
+D:\cSharp\7-7-StuInfo\7-7-StuInfo\bin\Debug\7-7-StuInfo.pdb
+D:\cSharp\7-7-StuInfo\7-7-StuInfo\obj\Debug\7-7-StuInfo.csprojAssemblyReference.cache
+D:\cSharp\7-7-StuInfo\7-7-StuInfo\obj\Debug\_7_7_StuInfo.FrmGR.resources
+D:\cSharp\7-7-StuInfo\7-7-StuInfo\obj\Debug\_7_7_StuInfo.FrmJT.resources
+D:\cSharp\7-7-StuInfo\7-7-StuInfo\obj\Debug\_7_7_StuInfo.FrmMain.resources
+D:\cSharp\7-7-StuInfo\7-7-StuInfo\obj\Debug\_7_7_StuInfo.FrmQT.resources
+D:\cSharp\7-7-StuInfo\7-7-StuInfo\obj\Debug\_7_7_StuInfo.FrmXJ.resources
+D:\cSharp\7-7-StuInfo\7-7-StuInfo\obj\Debug\_7_7_StuInfo.Properties.Resources.resources
+D:\cSharp\7-7-StuInfo\7-7-StuInfo\obj\Debug\7-7-StuInfo.csproj.GenerateResource.cache
+D:\cSharp\7-7-StuInfo\7-7-StuInfo\obj\Debug\7-7-StuInfo.csproj.CoreCompileInputs.cache
+D:\cSharp\7-7-StuInfo\7-7-StuInfo\obj\Debug\7-7-StuInfo.exe
+D:\cSharp\7-7-StuInfo\7-7-StuInfo\obj\Debug\7-7-StuInfo.pdb

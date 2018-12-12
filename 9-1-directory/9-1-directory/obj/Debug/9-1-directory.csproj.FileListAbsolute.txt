@@ -1,0 +1,10 @@
+D:\cSharp\9-1-directory\9-1-directory\bin\Debug\9-1-directory.exe.config
+D:\cSharp\9-1-directory\9-1-directory\bin\Debug\9-1-directory.exe
+D:\cSharp\9-1-directory\9-1-directory\bin\Debug\9-1-directory.pdb
+D:\cSharp\9-1-directory\9-1-directory\obj\Debug\9-1-directory.csprojAssemblyReference.cache
+D:\cSharp\9-1-directory\9-1-directory\obj\Debug\_9_1_directory.Form1.resources
+D:\cSharp\9-1-directory\9-1-directory\obj\Debug\_9_1_directory.Properties.Resources.resources
+D:\cSharp\9-1-directory\9-1-directory\obj\Debug\9-1-directory.csproj.GenerateResource.cache
+D:\cSharp\9-1-directory\9-1-directory\obj\Debug\9-1-directory.csproj.CoreCompileInputs.cache
+D:\cSharp\9-1-directory\9-1-directory\obj\Debug\9-1-directory.exe
+D:\cSharp\9-1-directory\9-1-directory\obj\Debug\9-1-directory.pdb

@@ -1,0 +1,7 @@
+D:\cSharp\9-3-xml\9-3-xml\bin\Debug\9-3-xml.exe.config
+D:\cSharp\9-3-xml\9-3-xml\bin\Debug\9-3-xml.exe
+D:\cSharp\9-3-xml\9-3-xml\bin\Debug\9-3-xml.pdb
+D:\cSharp\9-3-xml\9-3-xml\obj\Debug\9-3-xml.csprojAssemblyReference.cache
+D:\cSharp\9-3-xml\9-3-xml\obj\Debug\9-3-xml.csproj.CoreCompileInputs.cache
+D:\cSharp\9-3-xml\9-3-xml\obj\Debug\9-3-xml.exe
+D:\cSharp\9-3-xml\9-3-xml\obj\Debug\9-3-xml.pdb

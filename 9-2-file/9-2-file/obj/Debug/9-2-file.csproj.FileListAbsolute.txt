@@ -1,0 +1,10 @@
+D:\cSharp\9-2-file\9-2-file\bin\Debug\9-2-file.exe.config
+D:\cSharp\9-2-file\9-2-file\bin\Debug\9-2-file.exe
+D:\cSharp\9-2-file\9-2-file\bin\Debug\9-2-file.pdb
+D:\cSharp\9-2-file\9-2-file\obj\Debug\9-2-file.csprojAssemblyReference.cache
+D:\cSharp\9-2-file\9-2-file\obj\Debug\_9_2_file.Form1.resources
+D:\cSharp\9-2-file\9-2-file\obj\Debug\_9_2_file.Properties.Resources.resources
+D:\cSharp\9-2-file\9-2-file\obj\Debug\9-2-file.csproj.GenerateResource.cache
+D:\cSharp\9-2-file\9-2-file\obj\Debug\9-2-file.csproj.CoreCompileInputs.cache
+D:\cSharp\9-2-file\9-2-file\obj\Debug\9-2-file.exe
+D:\cSharp\9-2-file\9-2-file\obj\Debug\9-2-file.pdb

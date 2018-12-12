@@ -1,0 +1,7 @@
+D:\cSharp\5-3-disk\5-3-disk\bin\Debug\5-3-disk.exe.config
+D:\cSharp\5-3-disk\5-3-disk\bin\Debug\5-3-disk.exe
+D:\cSharp\5-3-disk\5-3-disk\bin\Debug\5-3-disk.pdb
+D:\cSharp\5-3-disk\5-3-disk\obj\Debug\5-3-disk.csprojAssemblyReference.cache
+D:\cSharp\5-3-disk\5-3-disk\obj\Debug\5-3-disk.csproj.CoreCompileInputs.cache
+D:\cSharp\5-3-disk\5-3-disk\obj\Debug\5-3-disk.exe
+D:\cSharp\5-3-disk\5-3-disk\obj\Debug\5-3-disk.pdb

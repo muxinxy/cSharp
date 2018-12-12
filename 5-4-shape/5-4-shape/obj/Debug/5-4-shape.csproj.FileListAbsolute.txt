@@ -1,0 +1,7 @@
+D:\cSharp\5-4-shape\5-4-shape\bin\Debug\5-4-shape.exe.config
+D:\cSharp\5-4-shape\5-4-shape\bin\Debug\5-4-shape.exe
+D:\cSharp\5-4-shape\5-4-shape\bin\Debug\5-4-shape.pdb
+D:\cSharp\5-4-shape\5-4-shape\obj\Debug\5-4-shape.csprojAssemblyReference.cache
+D:\cSharp\5-4-shape\5-4-shape\obj\Debug\5-4-shape.csproj.CoreCompileInputs.cache
+D:\cSharp\5-4-shape\5-4-shape\obj\Debug\5-4-shape.exe
+D:\cSharp\5-4-shape\5-4-shape\obj\Debug\5-4-shape.pdb

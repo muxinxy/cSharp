@@ -1,0 +1,10 @@
+D:\cSharp\7-4-pictures\7-4-pictures\bin\Debug\7-4-pictures.exe.config
+D:\cSharp\7-4-pictures\7-4-pictures\bin\Debug\7-4-pictures.exe
+D:\cSharp\7-4-pictures\7-4-pictures\bin\Debug\7-4-pictures.pdb
+D:\cSharp\7-4-pictures\7-4-pictures\obj\Debug\7-4-pictures.csprojAssemblyReference.cache
+D:\cSharp\7-4-pictures\7-4-pictures\obj\Debug\_7_4_pictures.Pictures.resources
+D:\cSharp\7-4-pictures\7-4-pictures\obj\Debug\_7_4_pictures.Properties.Resources.resources
+D:\cSharp\7-4-pictures\7-4-pictures\obj\Debug\7-4-pictures.csproj.GenerateResource.cache
+D:\cSharp\7-4-pictures\7-4-pictures\obj\Debug\7-4-pictures.csproj.CoreCompileInputs.cache
+D:\cSharp\7-4-pictures\7-4-pictures\obj\Debug\7-4-pictures.exe
+D:\cSharp\7-4-pictures\7-4-pictures\obj\Debug\7-4-pictures.pdb

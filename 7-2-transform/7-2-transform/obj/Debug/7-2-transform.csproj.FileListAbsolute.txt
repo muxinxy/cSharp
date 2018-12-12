@@ -1,0 +1,9 @@
+D:\cSharp\7-2-transform\7-2-transform\bin\Debug\7-2-transform.exe.config
+D:\cSharp\7-2-transform\7-2-transform\bin\Debug\7-2-transform.exe
+D:\cSharp\7-2-transform\7-2-transform\bin\Debug\7-2-transform.pdb
+D:\cSharp\7-2-transform\7-2-transform\obj\Debug\_7_2_transform.transform.resources
+D:\cSharp\7-2-transform\7-2-transform\obj\Debug\_7_2_transform.Properties.Resources.resources
+D:\cSharp\7-2-transform\7-2-transform\obj\Debug\7-2-transform.csproj.GenerateResource.cache
+D:\cSharp\7-2-transform\7-2-transform\obj\Debug\7-2-transform.csproj.CoreCompileInputs.cache
+D:\cSharp\7-2-transform\7-2-transform\obj\Debug\7-2-transform.exe
+D:\cSharp\7-2-transform\7-2-transform\obj\Debug\7-2-transform.pdb

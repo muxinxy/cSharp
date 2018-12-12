@@ -1,0 +1,10 @@
+D:\cSharp\7-3-money\7-3-money\bin\Debug\7-3-money.exe.config
+D:\cSharp\7-3-money\7-3-money\bin\Debug\7-3-money.exe
+D:\cSharp\7-3-money\7-3-money\bin\Debug\7-3-money.pdb
+D:\cSharp\7-3-money\7-3-money\obj\Debug\_7_3_money.Form1.resources
+D:\cSharp\7-3-money\7-3-money\obj\Debug\_7_3_money.Properties.Resources.resources
+D:\cSharp\7-3-money\7-3-money\obj\Debug\7-3-money.csproj.GenerateResource.cache
+D:\cSharp\7-3-money\7-3-money\obj\Debug\7-3-money.csproj.CoreCompileInputs.cache
+D:\cSharp\7-3-money\7-3-money\obj\Debug\7-3-money.exe
+D:\cSharp\7-3-money\7-3-money\obj\Debug\7-3-money.pdb
+D:\cSharp\7-3-money\7-3-money\obj\Debug\7-3-money.csprojAssemblyReference.cache

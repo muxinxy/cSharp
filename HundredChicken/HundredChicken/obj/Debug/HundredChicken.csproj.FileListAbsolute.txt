@@ -1,0 +1,7 @@
+D:\cSharp\HundredChicken\HundredChicken\bin\Debug\HundredChicken.exe.config
+D:\cSharp\HundredChicken\HundredChicken\bin\Debug\HundredChicken.exe
+D:\cSharp\HundredChicken\HundredChicken\bin\Debug\HundredChicken.pdb
+D:\cSharp\HundredChicken\HundredChicken\obj\Debug\HundredChicken.csprojAssemblyReference.cache
+D:\cSharp\HundredChicken\HundredChicken\obj\Debug\HundredChicken.csproj.CoreCompileInputs.cache
+D:\cSharp\HundredChicken\HundredChicken\obj\Debug\HundredChicken.exe
+D:\cSharp\HundredChicken\HundredChicken\obj\Debug\HundredChicken.pdb

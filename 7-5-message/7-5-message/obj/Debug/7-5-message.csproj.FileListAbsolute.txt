@@ -1,0 +1,10 @@
+C:\Users\zeng5\source\repos\7-5-message\7-5-message\bin\Debug\7-5-message.exe.config
+C:\Users\zeng5\source\repos\7-5-message\7-5-message\bin\Debug\7-5-message.exe
+C:\Users\zeng5\source\repos\7-5-message\7-5-message\bin\Debug\7-5-message.pdb
+C:\Users\zeng5\source\repos\7-5-message\7-5-message\obj\Debug\7-5-message.csprojAssemblyReference.cache
+C:\Users\zeng5\source\repos\7-5-message\7-5-message\obj\Debug\_7_5_message.Message.resources
+C:\Users\zeng5\source\repos\7-5-message\7-5-message\obj\Debug\_7_5_message.Properties.Resources.resources
+C:\Users\zeng5\source\repos\7-5-message\7-5-message\obj\Debug\7-5-message.csproj.GenerateResource.cache
+C:\Users\zeng5\source\repos\7-5-message\7-5-message\obj\Debug\7-5-message.csproj.CoreCompileInputs.cache
+C:\Users\zeng5\source\repos\7-5-message\7-5-message\obj\Debug\7-5-message.exe
+C:\Users\zeng5\source\repos\7-5-message\7-5-message\obj\Debug\7-5-message.pdb

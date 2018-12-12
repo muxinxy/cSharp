@@ -1,0 +1,9 @@
+D:\cSharp\8-2-images\8-2-images\bin\Debug\8-2-images.exe.config
+D:\cSharp\8-2-images\8-2-images\bin\Debug\8-2-images.exe
+D:\cSharp\8-2-images\8-2-images\bin\Debug\8-2-images.pdb
+D:\cSharp\8-2-images\8-2-images\obj\Debug\_8_2_images.Form1.resources
+D:\cSharp\8-2-images\8-2-images\obj\Debug\_8_2_images.Properties.Resources.resources
+D:\cSharp\8-2-images\8-2-images\obj\Debug\8-2-images.csproj.GenerateResource.cache
+D:\cSharp\8-2-images\8-2-images\obj\Debug\8-2-images.csproj.CoreCompileInputs.cache
+D:\cSharp\8-2-images\8-2-images\obj\Debug\8-2-images.exe
+D:\cSharp\8-2-images\8-2-images\obj\Debug\8-2-images.pdb

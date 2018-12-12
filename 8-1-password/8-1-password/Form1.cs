@@ -1,0 +1,101 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace _8_1_password
+{
+    public partial class Form1 : Form
+    {
+        int len = 0;
+        string txt = "";
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            label3.Text = "";
+        }
+        private void Form1_DoubleClick(object sender,EventArgs e)
+        {
+            textBox1.Clear();
+            label3.Text = "";
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            label3.Visible = false;
+            txt = textBox1.Text;
+            len = label3.Text.Length;
+            if(e.KeyCode!=Keys.Back)
+            {
+                if(e.Control&&e.KeyCode==Keys.V)
+                {
+                    MessageBox.Show("不允许粘贴！", "警告");
+                    textBox1.Text = txt;
+                }
+                if(e.Control && e.KeyCode == Keys.X)
+                {
+                    MessageBox.Show("不允许剪切！", "警告");
+                    textBox1.Text = txt;
+                }
+            }
+            else
+            {
+                if (len == 0)
+                    MessageBox.Show("已无数字可删除！", "提示");
+                else
+                    label3.Text = label3.Text.Remove(len - 1);
+            }
+        }
+
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            int num = (int)e.KeyChar;
+            label3.Visible = false;
+            switch (num)
+            {
+                case 48: label3.Text += "？";break;
+                case 49: label3.Text += "，"; break;
+                case 50: label3.Text += "。"; break;
+                case 51: label3.Text += "；"; break;
+                case 52: label3.Text += "："; break;
+                case 53: label3.Text += "《"; break;
+                case 54: label3.Text += "》"; break;
+                case 55: label3.Text += "（"; break;
+                case 56: label3.Text += "）"; break;
+                case 57: label3.Text += "="; break;
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label3.Visible = true;
+        }
+
+        private void textBox1_KeyUp(object sender, KeyEventArgs e)
+        {
+            int i = e.KeyValue;
+            if(e.KeyCode!=Keys.Back)
+            {
+                if(i<48||i>57)
+                {
+                    textBox1.Text = txt;
+                    textBox1.SelectionStart = len;
+                }
+            }
+        }
+    }
+}

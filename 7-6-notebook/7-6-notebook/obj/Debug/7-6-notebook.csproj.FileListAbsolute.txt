@@ -1,0 +1,10 @@
+D:\cSharp\7-6-notebook\7-6-notebook\bin\Debug\7-6-notebook.exe.config
+D:\cSharp\7-6-notebook\7-6-notebook\bin\Debug\7-6-notebook.exe
+D:\cSharp\7-6-notebook\7-6-notebook\bin\Debug\7-6-notebook.pdb
+D:\cSharp\7-6-notebook\7-6-notebook\obj\Debug\7-6-notebook.csprojAssemblyReference.cache
+D:\cSharp\7-6-notebook\7-6-notebook\obj\Debug\_7_6_notebook.notebook.resources
+D:\cSharp\7-6-notebook\7-6-notebook\obj\Debug\_7_6_notebook.Properties.Resources.resources
+D:\cSharp\7-6-notebook\7-6-notebook\obj\Debug\7-6-notebook.csproj.GenerateResource.cache
+D:\cSharp\7-6-notebook\7-6-notebook\obj\Debug\7-6-notebook.csproj.CoreCompileInputs.cache
+D:\cSharp\7-6-notebook\7-6-notebook\obj\Debug\7-6-notebook.exe
+D:\cSharp\7-6-notebook\7-6-notebook\obj\Debug\7-6-notebook.pdb

@@ -1,0 +1,7 @@
+D:\cSharp\5-1-books\5-1-books\bin\Debug\5-1-books.exe.config
+D:\cSharp\5-1-books\5-1-books\bin\Debug\5-1-books.exe
+D:\cSharp\5-1-books\5-1-books\bin\Debug\5-1-books.pdb
+D:\cSharp\5-1-books\5-1-books\obj\Debug\5-1-books.csprojAssemblyReference.cache
+D:\cSharp\5-1-books\5-1-books\obj\Debug\5-1-books.csproj.CoreCompileInputs.cache
+D:\cSharp\5-1-books\5-1-books\obj\Debug\5-1-books.exe
+D:\cSharp\5-1-books\5-1-books\obj\Debug\5-1-books.pdb

@@ -1,0 +1,7 @@
+D:\cSharp\project\project\bin\Debug\project.exe.config
+D:\cSharp\project\project\bin\Debug\project.exe
+D:\cSharp\project\project\bin\Debug\project.pdb
+D:\cSharp\project\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\cSharp\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\cSharp\project\project\obj\Debug\project.exe
+D:\cSharp\project\project\obj\Debug\project.pdb
