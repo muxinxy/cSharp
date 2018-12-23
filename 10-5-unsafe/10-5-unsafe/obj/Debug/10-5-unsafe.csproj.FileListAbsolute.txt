@@ -1,0 +1,7 @@
+D:\cSharp\10-5-unsafe\10-5-unsafe\bin\Debug\10-5-unsafe.exe.config
+D:\cSharp\10-5-unsafe\10-5-unsafe\bin\Debug\10-5-unsafe.exe
+D:\cSharp\10-5-unsafe\10-5-unsafe\bin\Debug\10-5-unsafe.pdb
+D:\cSharp\10-5-unsafe\10-5-unsafe\obj\Debug\10-5-unsafe.csprojAssemblyReference.cache
+D:\cSharp\10-5-unsafe\10-5-unsafe\obj\Debug\10-5-unsafe.csproj.CoreCompileInputs.cache
+D:\cSharp\10-5-unsafe\10-5-unsafe\obj\Debug\10-5-unsafe.exe
+D:\cSharp\10-5-unsafe\10-5-unsafe\obj\Debug\10-5-unsafe.pdb

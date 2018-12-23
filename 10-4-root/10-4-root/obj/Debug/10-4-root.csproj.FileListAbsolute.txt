@@ -1,0 +1,7 @@
+D:\cSharp\10-4-root\10-4-root\bin\Debug\10-4-root.exe.config
+D:\cSharp\10-4-root\10-4-root\bin\Debug\10-4-root.exe
+D:\cSharp\10-4-root\10-4-root\bin\Debug\10-4-root.pdb
+D:\cSharp\10-4-root\10-4-root\obj\Debug\10-4-root.csproj.CoreCompileInputs.cache
+D:\cSharp\10-4-root\10-4-root\obj\Debug\10-4-root.exe
+D:\cSharp\10-4-root\10-4-root\obj\Debug\10-4-root.pdb
+D:\cSharp\10-4-root\10-4-root\obj\Debug\10-4-root.csprojAssemblyReference.cache

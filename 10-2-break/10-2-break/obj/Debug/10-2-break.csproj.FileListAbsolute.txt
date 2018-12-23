@@ -1,0 +1,7 @@
+D:\cSharp\10-2-break\10-2-break\bin\Debug\10-2-break.exe.config
+D:\cSharp\10-2-break\10-2-break\bin\Debug\10-2-break.exe
+D:\cSharp\10-2-break\10-2-break\bin\Debug\10-2-break.pdb
+D:\cSharp\10-2-break\10-2-break\obj\Debug\10-2-break.csproj.CoreCompileInputs.cache
+D:\cSharp\10-2-break\10-2-break\obj\Debug\10-2-break.exe
+D:\cSharp\10-2-break\10-2-break\obj\Debug\10-2-break.pdb
+D:\cSharp\10-2-break\10-2-break\obj\Debug\10-2-break.csprojAssemblyReference.cache

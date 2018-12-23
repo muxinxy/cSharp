@@ -1,0 +1,7 @@
+D:\cSharp\12-1-tickets\12-1-tickets\bin\Debug\12-1-tickets.exe.config
+D:\cSharp\12-1-tickets\12-1-tickets\bin\Debug\12-1-tickets.exe
+D:\cSharp\12-1-tickets\12-1-tickets\bin\Debug\12-1-tickets.pdb
+D:\cSharp\12-1-tickets\12-1-tickets\obj\Debug\12-1-tickets.csprojAssemblyReference.cache
+D:\cSharp\12-1-tickets\12-1-tickets\obj\Debug\12-1-tickets.csproj.CoreCompileInputs.cache
+D:\cSharp\12-1-tickets\12-1-tickets\obj\Debug\12-1-tickets.exe
+D:\cSharp\12-1-tickets\12-1-tickets\obj\Debug\12-1-tickets.pdb

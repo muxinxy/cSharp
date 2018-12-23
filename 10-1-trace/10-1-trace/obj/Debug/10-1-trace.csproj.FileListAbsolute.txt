@@ -1,0 +1,7 @@
+D:\cSharp\10-1-trace\10-1-trace\bin\Debug\10-1-trace.exe.config
+D:\cSharp\10-1-trace\10-1-trace\bin\Debug\10-1-trace.exe
+D:\cSharp\10-1-trace\10-1-trace\bin\Debug\10-1-trace.pdb
+D:\cSharp\10-1-trace\10-1-trace\obj\Debug\10-1-trace.csprojAssemblyReference.cache
+D:\cSharp\10-1-trace\10-1-trace\obj\Debug\10-1-trace.csproj.CoreCompileInputs.cache
+D:\cSharp\10-1-trace\10-1-trace\obj\Debug\10-1-trace.exe
+D:\cSharp\10-1-trace\10-1-trace\obj\Debug\10-1-trace.pdb

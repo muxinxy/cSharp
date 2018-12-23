@@ -1,0 +1,6 @@
+D:\cSharp\10-3-array\10-3-array\bin\Debug\10-3-array.exe.config
+D:\cSharp\10-3-array\10-3-array\bin\Debug\10-3-array.exe
+D:\cSharp\10-3-array\10-3-array\bin\Debug\10-3-array.pdb
+D:\cSharp\10-3-array\10-3-array\obj\Debug\10-3-array.csproj.CoreCompileInputs.cache
+D:\cSharp\10-3-array\10-3-array\obj\Debug\10-3-array.exe
+D:\cSharp\10-3-array\10-3-array\obj\Debug\10-3-array.pdb
